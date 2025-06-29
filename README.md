@@ -44,6 +44,12 @@ Se pide que se trate a los usuarios con respeto 💙
 ```bash
 python3 main.py
 
+--
+
+#🧑‍💻🧑‍🍳 Autor
+
+LeonardoMateosoftware@gmail.com
+
 
 
 
