@@ -1,6 +1,8 @@
 # 🔒 Replit Flask Messenger
 
 Una plataforma de mensajería privada y segura basada en Flask, con autenticación completa y más. Construida con ❤️ en Replit.
+- **link🔗**
+https://messageeeee-wazaaa345chad.replit.app/messages
 
 ---
 
@@ -27,9 +29,15 @@ Una plataforma de mensajería privada y segura basada en Flask, con autenticaci�
 
 ---
 
-##🚨 Uso legal y etíco
+## 🚨 Uso legal y etíco
 
 Se pide que se trate a los usuarios con respeto 💙
+
+--
+
+## 🧑‍🍳🧑‍💻 Autor
+
+LeonardoMateosoftware@gmail.com
 
 --
 
@@ -46,9 +54,7 @@ python3 main.py
 
 --
 
-#🧑‍💻🧑‍🍳 Autor
 
-LeonardoMateosoftware@gmail.com
 
 
 
